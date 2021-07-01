@@ -1,0 +1,37 @@
+header {
+    height:500px;
+    padding-left: 500px;
+    font-size: 300%;
+    background: url(/images/Subtle-Prism.svg);
+}
+
+section h1{
+    font-size: 14px;
+    display: left;
+    width: 50%;
+    padding-left: 10px;
+}
+
+article h2 {
+    padding-right: 10px;
+    font-size: 14px;
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    margin-left: 600px;
+}
+
+article p {
+    display: flex;
+}
+
+footer {
+    background-color: teal;
+    font-size: 20px;
+    height: 75px;
+}
+
+footer p {
+    display: flex;
+    justify-content: center;
+}
